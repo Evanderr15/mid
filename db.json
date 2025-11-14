@@ -1,0 +1,71 @@
+{
+  "cv": {
+    "name": "Evander Riahi",
+    "title": "Frontend Developer",
+    "summary": "Experienced developer with a passion for web technologies.",
+    "experience": [
+      {
+        "company": "Class Monday & Wendnesday",
+        "role": "Frontend Developer",
+        "duration": " August 2025- Present",
+        "description": "Developed responsive web apps using React."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Informatics, Computer Science",
+        "school": "Universitas Klabat",
+        "year": "2025"
+      },
+
+      {  
+        "degree": "Information and Network Engineering",
+        "school": "SMK Discovery Manado",
+        "year": "2025"
+      },
+
+      {  
+        "degree": "Vice Chairman of The Class",
+        "school": "SMP Advent 1 Tikala",
+        "year": "2025"
+      },
+
+      {  
+        "degree": "Head of The Class",
+        "school": "SDN 88 Manado",
+        "year": "2025"
+      }
+
+
+      
+    ],
+    
+    "skills": [
+      {
+        "name": "JavaScript",
+        "image": "/assets/js.png"
+      },
+      {
+        "name": "React",
+        "image": "/assets/react.svg"
+      },
+      {
+        "name": "Tailwind CSS",
+        "image": "/assets/tailwind.png"
+      },
+      {
+        "name": "Node.js",
+        "image": "/assets/nodejs.png"
+      },
+      {
+        "name": "Github",
+        "image": "/assets/github.png"
+      }
+    ],
+    "contact": {
+      "email": "riahievander@gmail.com",
+      "phone": "0895803652907",
+      "linkedin": "belum ada :()"
+    }
+  }
+}
